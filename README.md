@@ -2,4 +2,4 @@
 GitHub test tutorial
 Editing file for changes
 
-Editing oage again and addiding additional content
+Editing page again and addiding additional content
